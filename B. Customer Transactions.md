@@ -28,7 +28,7 @@ WHERE txn_type = "deposit";
 
 ![B2](https://github.com/SaamarthMeston/SQL-8-Week-Challange-Case-study-4/assets/111190817/b2527aef-fea5-48b2-84cd-4c6372777812)
 
-### For each month - how many Data Bank customers make more than 1 deposit and either 1 purchase or 1 withdrawal in a single month?
+### 3. For each month - how many Data Bank customers make more than 1 deposit and either 1 purchase or 1 withdrawal in a single month?
 
 WITH transaction_count_per_month_cte AS
   (SELECT customer_id,
@@ -72,4 +72,3 @@ FROM txn_monthly_balance_cte;
 
 ![B4](https://github.com/SaamarthMeston/SQL-8-Week-Challange-Case-study-4/assets/111190817/321824cb-0bb3-4348-b522-5b9257e335de)
 
-### What is the percentage of customers who increase their closing balance by more than 5%?
