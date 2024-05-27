@@ -12,6 +12,7 @@
 
 SELECT count(DISTINCT node_id) AS unique_nodes
 FROM customer_nodes;
+
 ![A1](https://github.com/SaamarthMeston/SQL-8-Week-Challange-Case-study-4/assets/111190817/67d51e4a-211d-4de0-96f9-4780717f5457)
 
 ## 2. What is the number of nodes per region?
