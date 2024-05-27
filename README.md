@@ -20,3 +20,4 @@ This case study is all about calculating metrics, growth and helping the busines
 The Data Bank team have prepared a data model for this case study as well as a few example rows from the complete dataset below to get you familiar with their tables.
 
 
+![case-study-4-erd](https://github.com/SaamarthMeston/SQL-8-Week-Challange-Case-study-4/assets/111190817/ab269bad-40c9-4e49-9951-a7bfd7f9c7e3)
